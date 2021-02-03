@@ -44,13 +44,8 @@
         "busybox.exe",
         [
             "busybox.exe",
-            "ar",
-            "ar"
-        ],
-        [
-            "busybox.exe",
-            "arch",
-            "arch"
+            "bb",
+            "bb"
         ]
     ]
 }
