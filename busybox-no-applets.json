@@ -44,7 +44,6 @@
         "busybox.exe",
         [
             "busybox.exe",
-            "bb",
             "bb"
         ]
     ]
